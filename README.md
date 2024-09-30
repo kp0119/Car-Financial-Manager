@@ -5,7 +5,7 @@
 ## Features
 
 - **Add Car Information**: Input car details such as price, down payment, loan interest rate, and loan term.
-- **View Car Information**: View, update or delete saved car and loan details.
+- **View Car Information**: View, update or delete saved car and loan details by using a car ID or car nickname.
 - **Calculate Monthly Payment**: Calculate the monthly payment based on the loan terms.
 - **Affordability Check**: Check if you can afford a car based on your salary and financial data.
 - **Price Range Recommendation**: Get a suggestion on the price range of cars you can afford.
